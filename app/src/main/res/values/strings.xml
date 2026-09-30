@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DocQA</string>
+    <string name="upload_pdf">Upload PDF</string>
+    <string name="no_doc">No document uploaded</string>
+    <string name="ask_hint">Ask a question…</string>
+    <string name="send">Send</string>
+</resources>
